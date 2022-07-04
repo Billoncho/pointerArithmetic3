@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\cacha\\Documents\\codeX\\c\\c-workspace\\pointerArithmetic3\\pointerArithmetic3\\main.cpp",
+  "directory": "C:\\Users\\cacha\\Documents\\codeX\\c\\c-workspace\\pointerArithmetic3\\pointerArithmetic3",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\cacha\\Documents\\codeX\\c\\c-workspace\\pointerArithmetic3\\pointerArithmetic3\\main.cpp -o C:\\Users\\cacha\\Documents\\codeX\\c\\c-workspace\\pointerArithmetic3\\pointerArithmetic3\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]
